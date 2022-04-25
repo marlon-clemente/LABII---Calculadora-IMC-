@@ -3,7 +3,9 @@ Laboratório de Programação II | Trabalho #1
 ##### 1. Desenvolvimento
 
 O trabalho foi desenvolvido na linguagem C como solicitado.
-Compilado no GCC através dos comandos:
+Compilado no GCC através dos comandos:  
+  
+  
 ``` gcc -o exe main.c functions.c types.h ```  
 ```./exe ```
 

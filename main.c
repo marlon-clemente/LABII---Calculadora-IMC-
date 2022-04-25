@@ -1,6 +1,6 @@
 /*
   Marlon Clemente Soares
-  https://github.com/marlon-clemente/LabII/tree/main/Trab%231
+  https://github.com/marlon-clemente/LABII---Calculadora-IMC-
 
 */
 
