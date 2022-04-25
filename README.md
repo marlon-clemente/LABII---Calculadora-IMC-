@@ -5,16 +5,16 @@ Laboratório de Programação II | Trabalho #1
 O trabalho foi desenvolvido na linguagem C como solicitado.
 Compilado no GCC através dos comandos:  
   
-  
+
 ``` gcc -o exe main.c functions.c types.h ```  
 ```./exe ```
 
 O tamanho do vetor `TAM` pode ser alterado no arquivo `types.h`;  
 
 Para analisar os relatórios, há a possibilidade de criar de forma automática os dados, para isso:  
-  1º - comente a linnha `int controle = cadastrar (pessoa_vec);` do arquivo `main.c`;  
-  2º - descomente a linnha `auto_preenche(pessoa_vec);` do arquivo `main.c`;  
-  3º - tenha certeza que o tmanho do vetor seja 10 em  `#define TAM 10` no arquivo `types.h`;
+  1º - comente a linha `int controle = cadastrar (pessoa_vec);` do arquivo `main.c`;  
+  2º - descomente a linha `auto_preenche(pessoa_vec);` do arquivo `main.c`;  
+  3º - tenha certeza que o tamanho do vetor seja 10 em  `#define TAM 10` no arquivo `types.h`;
 
 
 ##### 2. Requisitos implementados:
